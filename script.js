@@ -27,7 +27,10 @@ $(function()
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},
               {
-    
+    artist: "Kha",
+		name: "Lời Yêu Ngây Dại",
+		url: "Musics/LoiYeuNgayDai.mp3",
+		picture: "https://data.chiasenhac.com/data/cover/117/116603.jpg"
                 
               }];
 	
